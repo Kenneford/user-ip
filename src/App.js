@@ -17,7 +17,7 @@ function App() {
           <h3>Want to know your IP?</h3>
           <p>Kindly click on the button below...👇🏾</p>
         </div>
-        <Link to="user_ip"><button className='getIpBtn'>Get Your IP</button></Link>
+        <Link to="/user_ip"><button className='getIpBtn'>Get Your IP</button></Link>
       </Container>
   );
 }
